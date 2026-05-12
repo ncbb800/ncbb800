@@ -12,6 +12,10 @@ www.github.com/ncbb800/art-style-paper
 
 ## Spaces I've Built
 
+1. Simple Anime Scene Writer (https://huggingface.co/spaces/ffffww/AnimeSceneWriter)
+2. CPU Friendly Anime Character Consistency Generator (https://huggingface.co/spaces/ffffww/anime-character-consistency-generator)
+3. Soon.....
+
 ## Hugging Face
 
 Profile: https://huggingface.co/ffffww
