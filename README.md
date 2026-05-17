@@ -14,7 +14,7 @@ www.github.com/ncbb800/art-style-paper
 
 1. Simple Anime Scene Writer (https://huggingface.co/spaces/ffffww/AnimeSceneWriter)
 2. CPU Friendly Anime Character Consistency Generator (https://huggingface.co/spaces/ffffww/anime-character-consistency-generator)
-3. Soon.....
+3. Final Consistent Image Studio using a Huggingface Hosted API with different image generation models for each style (https://huggingface.co/spaces/ffffww/consistent-image-studio)
 
 ## Hugging Face
 
