@@ -25,6 +25,12 @@ Collection: https://huggingface.co/collections/ffffww/cool-image-generation-mode
 
 [https://github.com/ncbb800/Research-Journal) — weekly notes on what I've tested, noticed, and changed.
 
+## Research Paper
+
+[https://github.com/ncbb800/Research-Paper) - Full research paper encompassing everything I've tried and experimented on so far.
+
+
+
 
 <!--
 **ncbb800/ncbb800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
